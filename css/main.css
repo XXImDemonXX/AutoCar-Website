@@ -1,0 +1,70 @@
+body{
+
+}
+
+input,#f{
+	padding:5px;
+	text-align:center;
+	margin:5px;
+	border:1px solid;
+	border-radius: 	10px;
+}
+
+input:hover
+{
+	color: black;
+	background-color: gray;
+	opacity: 0.4;
+	transition: 1s;
+}
+#select
+{
+	padding: 5px;
+	text-align:center;
+	margin:5px;
+	border:1px solid;
+	border-radius:10px;
+	width: 15%;
+}
+.premium
+{
+	margin-left:10%;
+	margin-right:10%;
+}
+.engine
+{
+	margin-left:35%;
+	margin-right:35%;
+	margin-top:-35%;
+	
+}
+.exterior
+{
+	margin-left:35%;
+	margin-right:35%;
+	margin-top:-0%;
+}
+.interior
+{
+	margin-left:55%;
+	margin-right:55%;
+	margin-top:-33%;
+}
+.capacity
+{
+		margin-left:55%;
+	margin-right:55%;
+	margin-top:-0%;
+}
+.news
+{
+	margin-left:10%;
+	margin-right:10%;
+	margin-top:15%;
+}
+.devloper
+{
+		margin-left:35%;
+	margin-right:35%;
+	margin-top:-23%;
+}
